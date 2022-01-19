@@ -1,1 +1,1 @@
-A Flash Card App to help you learn French efficiently.
+A Flash Card App to help learn French efficiently.
